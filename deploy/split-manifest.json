@@ -1,0 +1,702 @@
+{
+  "/1/2-player-battle/index.html": {
+    "size": 68816226,
+    "sha256": "5ce623bb396111c81bdaa963280b6061513e26c8dc361f4796f8bca811686693",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part003",
+        "size": 8816226
+      }
+    ]
+  },
+  "/1/among-us/index.html": {
+    "size": 60077701,
+    "sha256": "6b66ce8775df0e502faa0187ef2503910564a0172e50cede18331f0c3cadc0e8",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part003",
+        "size": 77701
+      }
+    ]
+  },
+  "/1/arena/index.html": {
+    "size": 34211677,
+    "sha256": "a005687e817e191be96e3bf44bc480ecf28ceb45d5569b901d7fc0572608b1df",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 14211677
+      }
+    ]
+  },
+  "/1/crazycattle/index.pck": {
+    "size": 39414368,
+    "sha256": "34926f531fc28b2a963ea70a9abe4243a144450768d5eaf5a7cd2c053ae0c25b",
+    "parts": [
+      {
+        "name": "index.pck.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.pck.part001",
+        "size": 19414368
+      }
+    ]
+  },
+  "/1/crazycattle/index.side.wasm": {
+    "size": 45583106,
+    "sha256": "f6a70633d71a25bb5892046bd24dccd43e5ac8dc8238fb66439a4698d4d64c88",
+    "parts": [
+      {
+        "name": "index.side.wasm.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.side.wasm.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.side.wasm.part002",
+        "size": 5583106
+      }
+    ]
+  },
+  "/1/cut-the-rope/index.html": {
+    "size": 33247414,
+    "sha256": "84354ffef49c67b69aae31a46ce29cf54665a01985ad487967e909ce3dd217ae",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 13247414
+      }
+    ]
+  },
+  "/1/deltarune_ch1/runner.wasm": {
+    "size": 47410662,
+    "sha256": "9935fb6452ad81f9ac518528ca138b21d84bd3b363e3cfbd32d78c2ff5d279c0",
+    "parts": [
+      {
+        "name": "runner.wasm.part000",
+        "size": 20000000
+      },
+      {
+        "name": "runner.wasm.part001",
+        "size": 20000000
+      },
+      {
+        "name": "runner.wasm.part002",
+        "size": 7410662
+      }
+    ]
+  },
+  "/1/deltarune_ch3/runner.wasm": {
+    "size": 47410662,
+    "sha256": "9935fb6452ad81f9ac518528ca138b21d84bd3b363e3cfbd32d78c2ff5d279c0",
+    "parts": [
+      {
+        "name": "runner.wasm.part000",
+        "size": 20000000
+      },
+      {
+        "name": "runner.wasm.part001",
+        "size": 20000000
+      },
+      {
+        "name": "runner.wasm.part002",
+        "size": 7410662
+      }
+    ]
+  },
+  "/1/deltarune-a-different-snowgrave/index.html": {
+    "size": 66658564,
+    "sha256": "e07ffb252bcacfc6c9190ae28a2a46225683d0e8f9e9d54c3e6db7250d5d8b7e",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part003",
+        "size": 6658564
+      }
+    ]
+  },
+  "/1/doki-doki-literature-club/game.zip": {
+    "size": 79179486,
+    "sha256": "8f65bfcde01ae42fc58c8fc7dc5c50f5521b5876ee42c7988b722f7af59d4299",
+    "parts": [
+      {
+        "name": "game.zip.part000",
+        "size": 20000000
+      },
+      {
+        "name": "game.zip.part001",
+        "size": 20000000
+      },
+      {
+        "name": "game.zip.part002",
+        "size": 20000000
+      },
+      {
+        "name": "game.zip.part003",
+        "size": 19179486
+      }
+    ]
+  },
+  "/1/dreamazon/index.html": {
+    "size": 28608892,
+    "sha256": "3d8b42161e139f4aeda82e001a45626fff4b028aa1f7f038f01a6142017b0d9c",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 8608892
+      }
+    ]
+  },
+  "/1/dungeons/index.html": {
+    "size": 26709455,
+    "sha256": "a66abc201a4e5098a21c7155ee5aec7e41d919e3ad2ca7d6ea42491e59da63c0",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 6709455
+      }
+    ]
+  },
+  "/1/dunk-shot/index.html": {
+    "size": 27264920,
+    "sha256": "eec92888ec1e3c0e1c98b06c43c2c5b760ccd9563324404f1dd116c91508ac4d",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 7264920
+      }
+    ]
+  },
+  "/1/eaglercraft/index.html": {
+    "size": 55585961,
+    "sha256": "811ed18e1976ced48e174e6c6cfdd0b88efbc7239bb224942f414bffc251ee6a",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 15585961
+      }
+    ]
+  },
+  "/1/egg-dash/index.html": {
+    "size": 35217651,
+    "sha256": "29f2ae499011f53f05332c3fcaf47340c7f9dceedf823783c1c3b92c15f31177",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 15217651
+      }
+    ]
+  },
+  "/1/geometry-dash/Build/GeometryDashLite.data.unityweb": {
+    "size": 25106751,
+    "sha256": "e5ab417f682d7d4073f717fbeb83c1ffac2109b1a9dcd7ea87a7fa215bb49ab2",
+    "parts": [
+      {
+        "name": "GeometryDashLite.data.unityweb.part000",
+        "size": 20000000
+      },
+      {
+        "name": "GeometryDashLite.data.unityweb.part001",
+        "size": 5106751
+      }
+    ]
+  },
+  "/1/geometry-wave/index.html": {
+    "size": 52477231,
+    "sha256": "acb781bd1c35f9aa271fc91b8b784b4d6b29282a46166504ad89b71d49c26b73",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 12477231
+      }
+    ]
+  },
+  "/1/getting-over-it/index.html": {
+    "size": 35857966,
+    "sha256": "7c7af074f5e5cd3e505499af33fc9e4ada0fa68a91ec2edb370c94b77a813c5d",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 15857966
+      }
+    ]
+  },
+  "/1/grapple-pig/index.html": {
+    "size": 27729881,
+    "sha256": "e8065109c02a378265f42c349174302d7d8c6fce2072a88f710ec53fe18199fa",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 7729881
+      }
+    ]
+  },
+  "/1/hill-climb-racing/Hill Climb Moddy.wasm": {
+    "size": 37902138,
+    "sha256": "11ea19645368f8e73cf337b59cfd7ceeb4ebb51f7a3bbf77d1a5c3ddfedbc522",
+    "parts": [
+      {
+        "name": "Hill Climb Moddy.wasm.part000",
+        "size": 20000000
+      },
+      {
+        "name": "Hill Climb Moddy.wasm.part001",
+        "size": 17902138
+      }
+    ]
+  },
+  "/1/kaboom-cavern/index.html": {
+    "size": 38935312,
+    "sha256": "e349e49244d64ad877d56aa882ef2b101a627d6eaf4deff78606b2a4609efb08",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 18935312
+      }
+    ]
+  },
+  "/1/magic-cat-academy/index.html": {
+    "size": 51820642,
+    "sha256": "e64bc4eeed1d56a384f2ddeb759c444af96c5c6d134434df06479ce842a7a58c",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 11820642
+      }
+    ]
+  },
+  "/1/mallard-madness-2/index.html": {
+    "size": 73533152,
+    "sha256": "67f58713dc9a563fce1326a32490d1d0197629bd13cb8b5866c7d6492bb99990",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part003",
+        "size": 13533152
+      }
+    ]
+  },
+  "/1/mario-bros-classic/index.html": {
+    "size": 29799500,
+    "sha256": "81d0e1809ee0d8524d767e2f726619729904b0974e1c48be1270557e37b96318",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 9799500
+      }
+    ]
+  },
+  "/1/miner-cat-1/index.html": {
+    "size": 27368270,
+    "sha256": "466d7bc2988bf8cdf34ff3760aacff7eac49d8d74c37a0863e17fa2d5034e2be",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 7368270
+      }
+    ]
+  },
+  "/1/miner-cat-2/index.html": {
+    "size": 29194356,
+    "sha256": "fe989c8cc03e3dd3bd3d5a7260a7e76c75a5c9091bcc66440b48ae27df37f5e4",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 9194356
+      }
+    ]
+  },
+  "/1/miner-cat-3/index.html": {
+    "size": 34140863,
+    "sha256": "5d461e0399cb1cd6a1bf61b625394745c42572ad3cbe6a68bffb6018c5d43693",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 14140863
+      }
+    ]
+  },
+  "/1/miner-cat-4/index.html": {
+    "size": 34415390,
+    "sha256": "af99fcf28b7049f695b4ec8ac6326729504358ff045b1345ac2cab1af06c890f",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 14415390
+      }
+    ]
+  },
+  "/1/paper-minecraft/index.html": {
+    "size": 26392452,
+    "sha256": "68474c366d2e8b28b1a05f170fd37c40f6da8bf204f764c6c4351f18935f7545",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 6392452
+      }
+    ]
+  },
+  "/1/pig-dash/index.html": {
+    "size": 34712935,
+    "sha256": "2308c3c4b1aba7ccd1635c998e54364d2bbcb5d2c3fba4b8581e3844b1f592b0",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 14712935
+      }
+    ]
+  },
+  "/1/pokemon-diamond/_external/raw.githubusercontent.com/arcade-v/emulatorjs/refs/heads/main/pokemon/diamond/pokemon-diamond.zip": {
+    "size": 27924117,
+    "sha256": "d2479ffeca15a02430bb50006bbe2f969ecfb92ea922da54ca52d157c78adb8d",
+    "parts": [
+      {
+        "name": "pokemon-diamond.zip.part000",
+        "size": 20000000
+      },
+      {
+        "name": "pokemon-diamond.zip.part001",
+        "size": 7924117
+      }
+    ]
+  },
+  "/1/pokemon-platinum/_external/raw.githubusercontent.com/arcade-v/emulatorjs/refs/heads/main/pokemon/platinum/pokemon-platinum.zip": {
+    "size": 50777907,
+    "sha256": "95ca960b6ed650227ed166b7da7fff3ff9d5f7ee036ac68eb4c2c9e0db212801",
+    "parts": [
+      {
+        "name": "pokemon-platinum.zip.part000",
+        "size": 20000000
+      },
+      {
+        "name": "pokemon-platinum.zip.part001",
+        "size": 20000000
+      },
+      {
+        "name": "pokemon-platinum.zip.part002",
+        "size": 10777907
+      }
+    ]
+  },
+  "/1/pokemon-soul-silver/_external/raw.githubusercontent.com/arcade-v/emulatorjs/refs/heads/main/pokemon/soul_silver/pokemon-soulsilver.zip": {
+    "size": 60760073,
+    "sha256": "9ba4ae451f032272caf1007c9012a0ffcdbcf6f5b4617717fb73436d3bc51d20",
+    "parts": [
+      {
+        "name": "pokemon-soulsilver.zip.part000",
+        "size": 20000000
+      },
+      {
+        "name": "pokemon-soulsilver.zip.part001",
+        "size": 20000000
+      },
+      {
+        "name": "pokemon-soulsilver.zip.part002",
+        "size": 20000000
+      },
+      {
+        "name": "pokemon-soulsilver.zip.part003",
+        "size": 760073
+      }
+    ]
+  },
+  "/1/rubber-bandit/index.html": {
+    "size": 45554915,
+    "sha256": "6062eb35fbe364f0077727067a57e026ef675270fee51cc0f604bac33289f629",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 5554915
+      }
+    ]
+  },
+  "/1/slime-smash-ultimate/index.html": {
+    "size": 36890797,
+    "sha256": "f4e03d184781b8399344a121e3903080d213d3696379f91a61d0bcdb8f37db19",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 16890797
+      }
+    ]
+  },
+  "/1/sling-drift/index.html": {
+    "size": 45260746,
+    "sha256": "6a7ec45b0d7b7810224fbada3adb5c8cb2802cd2dfb6eb4b71ae27e4cef63000",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 5260746
+      }
+    ]
+  },
+  "/1/sprunki/index.html": {
+    "size": 64889611,
+    "sha256": "1ad2e7ab00c42ab32924bf4fd5c2aae4aa99dcd3ff20ae3195de70a2272c2e07",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part003",
+        "size": 4889611
+      }
+    ]
+  },
+  "/1/star-seeker/index.html": {
+    "size": 68690759,
+    "sha256": "1ac61204cea69bfcc4925735a042066f3bd0b07fab37e25d1ed9b8d8db9c8b00",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part003",
+        "size": 8690759
+      }
+    ]
+  },
+  "/1/starlight/index.html": {
+    "size": 46975237,
+    "sha256": "ce7513d5015f45bf2e8fab2a1c3ef292d091d3e05c5e6217e311b8716a8a5614",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 6975237
+      }
+    ]
+  },
+  "/1/submersible/index.html": {
+    "size": 53396580,
+    "sha256": "f4cb9613d6ac996483141bd44da4df7a4bfd99eeb189e4f5892cddb2c154d854",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 13396580
+      }
+    ]
+  },
+  "/1/vectoid-td-3d/index.html": {
+    "size": 56768529,
+    "sha256": "15acce696e462a11d11163ccb5cd7ff86ccc7878593dd2fc2a9698ac03576822",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part002",
+        "size": 16768529
+      }
+    ]
+  },
+  "/1/zenith/index.html": {
+    "size": 31184996,
+    "sha256": "9a78e9a4ca392cad7d4b23a4c76b48118b8a17cadb771c6051e39af2df15f079",
+    "parts": [
+      {
+        "name": "index.html.part000",
+        "size": 20000000
+      },
+      {
+        "name": "index.html.part001",
+        "size": 11184996
+      }
+    ]
+  }
+}
